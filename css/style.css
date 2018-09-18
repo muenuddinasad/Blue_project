@@ -1,0 +1,277 @@
+.header
+{
+	border: 3px solid black;
+	min-height: 150px;
+	overflow: hidden;
+	/*margin-bottom: 10px;*/
+}
+.hding1
+{
+	background-color: yellow;
+	min-height: 120px;
+	margin: 5px 70px;
+	overflow: hidden;
+}
+.h
+{
+	min-height: 120px;
+	border: 3px solid brown;
+	margin: 10px 0;
+	/*float: left;*/
+}
+.hdr1
+{
+	width: 25%;
+	float: left;
+}
+.hdr2
+{
+	width: 60%;
+	float: right;
+	overflow: hidden;
+}
+.bm
+{
+	min-height: 50px;
+	background-color: blue;
+	margin: 5px 10px;
+}
+.btn
+{
+	float: top;
+	overflow: hidden;
+}
+.b
+{
+	min-height: 50px;
+	width: 48%;
+	background-color: black;
+
+}
+.btn1
+{
+	float:left;
+}
+.btn2
+{
+	float: right;
+	padding: 0 0 0 7px;
+
+}
+.menu
+{
+	float: bottom;
+	overflow: hidden;
+}
+.m1
+{
+	background-color: black;
+	min-height: 50px;
+	margin: 2px 2px;
+	width: 18%;
+	float: left;
+}
+.banner
+{
+	min-height: 300px;
+	background-color: lightblue;
+	overflow: hidden;
+}
+.hding2
+{
+	min-height: 300px;
+	background-color: yellow;
+	margin: 5px 70px;
+	overflow: hidden;
+}
+.cntent
+{
+	min-height: 210px;
+	border: 5px solid blue;
+	margin: 65px 500px 25px 0; 
+}
+.cbtn
+{
+	min-height: 50px;
+	background-color: white;
+	margin: 150px 400px 0 0;
+	/*overflow: hidden;*/
+}
+.bname
+{
+	min-height: 46px;
+	border: 2px solid black;
+	width: 70%;
+	float: left;
+}
+.blgo
+{
+	min-height: 50px;
+	float: right;
+	width: 27%;
+	background-color: black;
+
+}
+.services
+{
+	min-height: 250px;
+	background-color: violet;
+	overflow: hidden;
+}
+.hding3
+{
+	min-height: 250px;
+	background-color: yellow;
+	margin: 5px 70px;
+}
+.s1
+{
+  min-height: 250px;
+  background-color: lightblue;
+  width: 32.5%;
+  float: left;
+  margin: 0 4px;
+}
+.d
+{
+	width: 100%;
+	background-color: white;
+}
+.d1
+{
+	min-height: 96px;
+	border: 2px solid lightblue;
+	float: top;
+	/*overflow: hidden;*/
+}
+.p1
+{
+	min-height: 96px;
+	background-color: white;
+	float: left;
+	width: 25%;
+}
+.p2
+{
+	min-height: 96px;
+	background-color: blue;
+	float: right;
+	width: 65%;
+}
+.d2
+{
+	min-height: 146px;
+	border: 2px solid lightblue;
+	float: bottom;
+}
+.about
+{
+	overflow: hidden;
+	min-height: 250px;
+	background-color: lightblue;
+}
+.hding4
+{
+	min-height: 250px;
+	background-color: yellow;
+	margin: 5px 70px;
+	overflow: hidden;
+}
+.a
+{
+	min-height: 245px;
+	background-color: blue;
+	float: left;
+	width: 31%;
+	margin:5px 10px;
+}
+.ap
+{
+	
+	border: 3px solid black;
+	overflow: hidden;
+
+}
+.aprt1
+{
+	min-height: 160px;
+	margin-bottom: 27px;
+}
+.aprt2
+{
+	min-height: 45px;
+}
+.ad
+{
+	min-height: 240px;
+	overflow: hidden;
+	border: 3px solid black;
+}
+.adiv1
+{
+	width: 40%;
+	float: left;
+}
+.adiv
+{
+	width: 50%;
+	float: right;
+}
+.adp1
+{
+	min-height: 100px;
+	border: 2px solid black;
+	float:top;
+}
+.adp2
+{
+	min-height: 120px;
+	border:2px solid black;
+	margin-top: 12px;
+}
+.footer
+{
+	min-height: 150px;
+	border: 5px solid black;
+	overflow: hidden;
+}
+.hding5
+{
+	min-height: 150px;
+	background-color: yellow;
+	margin: 5px 70px;
+	overflow: hidden;
+}
+.fs
+{
+	min-height: 150px;
+	overflow: hidden;
+	border:2px solid black;
+}
+.fs1
+{
+	width: 60%;
+	float: left;
+}
+.fs2
+{
+	width: 35%;
+	float: right;
+}
+.fsp
+{
+	overflow: hidden;
+	border: 2px solid black;
+}
+.fsp1
+{
+	min-height: 40px;
+	float: top;
+	margin-top:15px; 
+}
+.fsp2
+{
+	min-height: 40px;
+	float: bottom;
+	margin:5px 0 30px 0; 
+}
